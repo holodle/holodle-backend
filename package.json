@@ -1,13 +1,16 @@
 {
     "name": "holodle-backend",
     "version": "0.0.1",
-    "description": "The backend service for holodle.",
+    "description": "Express.js backend server for holodle.",
+    "author": "Huzz",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/holodle/holodle-backend.git"
+    },
     "main": "index.js",
     "scripts": {
         "dev": "nodemon -x tsx ./src/index.ts"
     },
-    "author": "Huzz",
-    "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
