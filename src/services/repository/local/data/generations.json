@@ -2,7 +2,7 @@
   {
     "id": "yk1yyj",
     "name": {
-      "en": "0th",
+      "en": "0th generation",
       "jp": "0期生"
     },
     "location": 10001,
@@ -11,7 +11,7 @@
   {
     "id": "b7pab0",
     "name": {
-      "en": "1st",
+      "en": "1st generation",
       "jp": "1期生"
     },
     "location": 10002,
@@ -20,7 +20,7 @@
   {
     "id": "u69yt7",
     "name": {
-      "en": "2nd",
+      "en": "2nd generation",
       "jp": "2期生"
     },
     "location": 10003,
@@ -38,7 +38,7 @@
   {
     "id": "btwjmq",
     "name": {
-      "en": "3rd",
+      "en": "3rd generation",
       "jp": "3期生"
     },
     "location": 10005,
@@ -47,7 +47,7 @@
   {
     "id": "itx692",
     "name": {
-      "en": "4th",
+      "en": "4th generation",
       "jp": "4期生"
     },
     "location": 10006,
@@ -56,7 +56,7 @@
   {
     "id": "a9r94f",
     "name": {
-      "en": "5th",
+      "en": "5th generation",
       "jp": "5期生"
     },
     "location": 10007,
@@ -74,7 +74,7 @@
   {
     "id": "bgq2et",
     "name": {
-      "en": "1st",
+      "en": "1st generation",
       "jp": "1期生"
     },
     "location": 20001,
@@ -83,7 +83,7 @@
   {
     "id": "8amcg0",
     "name": {
-      "en": "2nd",
+      "en": "2nd generation",
       "jp": "2期生"
     },
     "location": 20002,
@@ -92,7 +92,7 @@
   {
     "id": "lth8bv",
     "name": {
-      "en": "3rd",
+      "en": "3rd generation",
       "jp": "3期生"
     },
     "location": 20003,

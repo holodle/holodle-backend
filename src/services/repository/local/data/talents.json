@@ -172,5 +172,21 @@
     "originalSongCount": 1,
     "enableOn": null,
     "disableOn": null
+  },
+  {
+    "id": "z8enr1",
+    "name": {
+      "en": "Ayunda Risu",
+      "jp": "アユンダ・リス"
+    },
+    "generations": ["bgq2et"],
+    "birthday": "0115",
+    "anniversary": "0410",
+    "imageColor": "#f6bbbb",
+    "height": 153,
+    "outfitCount": 6,
+    "originalSongCount": 3,
+    "enableOn": null,
+    "disableOn": null
   }
 ]
