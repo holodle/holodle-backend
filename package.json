@@ -2,7 +2,7 @@
     "name": "holodle-backend",
     "version": "0.0.1",
     "description": "Express.js backend server for holodle.",
-    "author": "Huzz",
+    "author": "HuzzNZ",
     "repository": {
         "type": "git",
         "url": "https://github.com/holodle/holodle-backend.git"
