@@ -1,0 +1,25 @@
+{
+    "name": "holodle-backend",
+    "version": "0.0.1",
+    "description": "The backend service for holodle.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon -x tsx ./src/index.ts"
+    },
+    "author": "Huzz",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.1",
+        "express-async-handler": "^1.2.0",
+        "holodle-types": "github:holodle/holodle-types"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.0",
+        "nodemon": "^3.1.7",
+        "tsc-alias": "^1.8.10",
+        "tsx": "^4.19.1",
+        "typescript": "^5.6.3"
+    }
+}

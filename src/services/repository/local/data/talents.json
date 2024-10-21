@@ -1,0 +1,176 @@
+[
+  {
+    "id": "9tdlc1",
+    "name": {
+      "en": "Otonose Kanade",
+      "jp": "音乃瀬奏"
+    },
+    "generations": ["405c0p"],
+    "birthday": "0420",
+    "anniversary": "0909",
+    "imageColor": "#f6c663",
+    "height": 153,
+    "outfitCount": 2,
+    "originalSongCount": 0,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "jqeg3k",
+    "name": {
+      "en": "Todoroki Hajime",
+      "jp": "轟はじめ"
+    },
+    "generations": ["405c0p"],
+    "birthday": "0607",
+    "anniversary": "0910",
+    "imageColor": "#f6c663",
+    "height": 155,
+    "outfitCount": 2,
+    "originalSongCount": 0,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "gqevct",
+    "name": {
+      "en": "Fuwawa Abyssgard",
+      "jp": "フワワ・アビスガード"
+    },
+    "generations": ["iswu8d"],
+    "birthday": "0201",
+    "anniversary": "0731",
+    "imageColor": "#f6c663",
+    "height": 155,
+    "outfitCount": 2,
+    "originalSongCount": 1,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "e9h6ym",
+    "name": {
+      "en": "Momosuzu Nene",
+      "jp": "桃鈴ねね"
+    },
+    "generations": ["a9r94f"],
+    "birthday": "0302",
+    "anniversary": "0813",
+    "imageColor": "#f6c663",
+    "height": 159,
+    "outfitCount": 4,
+    "originalSongCount": 7,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "9m8xpu",
+    "name": {
+      "en": "Laplus Darknesss",
+      "jp": "ラプラス・ダークネス"
+    },
+    "generations": ["v78hmz"],
+    "birthday": "0525",
+    "anniversary": "1126",
+    "imageColor": "#f6c663",
+    "height": 139,
+    "outfitCount": 4,
+    "originalSongCount": 3,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "z010xn",
+    "name": {
+      "en": "Koseki Bijou",
+      "jp": "古石ビジュー"
+    },
+    "generations": ["iswu8d"],
+    "birthday": "0414",
+    "anniversary": "0730",
+    "imageColor": "#f6c663",
+    "height": 140,
+    "outfitCount": 2,
+    "originalSongCount": 1,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "s3aeq8",
+    "name": {
+      "en": "AZKi"
+    },
+    "generations": ["yk1yyj"],
+    "birthday": "0701",
+    "anniversary": "1115",
+    "imageColor": "#f6c663",
+    "height": 158,
+    "outfitCount": 2,
+    "originalSongCount": 25,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "xi3lzv",
+    "name": {
+      "en": "Shirakami Fubuki",
+      "jp": "白上フブキ"
+    },
+    "generations": ["b7pab0", "3d67z4"],
+    "birthday": "1005",
+    "anniversary": "0601",
+    "imageColor": "#f6c663",
+    "height": 155,
+    "outfitCount": 7,
+    "originalSongCount": 6,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "dmcpnz",
+    "name": {
+      "en": "Nanashi Mumei",
+      "jp": "七詩ムメイ"
+    },
+    "generations": ["krpii8", "pxz7xa"],
+    "birthday": "0804",
+    "anniversary": "0823",
+    "imageColor": "#f6c663",
+    "height": 156,
+    "outfitCount": 4,
+    "originalSongCount": 2,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "yqf01o",
+    "name": {
+      "en": "IRyS"
+    },
+    "generations": ["ilqb0t", "pxz7xa"],
+    "birthday": "0307",
+    "anniversary": "0711",
+    "imageColor": "#f6c663",
+    "height": 166,
+    "outfitCount": 4,
+    "originalSongCount": 26,
+    "enableOn": null,
+    "disableOn": null
+  },
+  {
+    "id": "2dsdnf",
+    "name": {
+      "en": "Tsukumo Sana",
+      "jp": "九十九佐命"
+    },
+    "generations": ["krpii8"],
+    "birthday": "0610",
+    "anniversary": "0823",
+    "imageColor": "#f6c663",
+    "height": 169,
+    "outfitCount": 2,
+    "originalSongCount": 1,
+    "enableOn": null,
+    "disableOn": null
+  }
+]

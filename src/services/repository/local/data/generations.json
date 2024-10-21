@@ -1,0 +1,157 @@
+[
+  {
+    "id": "yk1yyj",
+    "name": {
+      "en": "0th",
+      "jp": "0期生"
+    },
+    "location": 10001,
+    "branch": "myw3th"
+  },
+  {
+    "id": "b7pab0",
+    "name": {
+      "en": "1st",
+      "jp": "1期生"
+    },
+    "location": 10002,
+    "branch": "myw3th"
+  },
+  {
+    "id": "u69yt7",
+    "name": {
+      "en": "2nd",
+      "jp": "2期生"
+    },
+    "location": 10003,
+    "branch": "myw3th"
+  },
+  {
+    "id": "3d67z4",
+    "name": {
+      "en": "GAMERS",
+      "jp": "ゲーマーズ"
+    },
+    "location": 10004,
+    "branch": "myw3th"
+  },
+  {
+    "id": "btwjmq",
+    "name": {
+      "en": "3rd",
+      "jp": "3期生"
+    },
+    "location": 10005,
+    "branch": "myw3th"
+  },
+  {
+    "id": "itx692",
+    "name": {
+      "en": "4th",
+      "jp": "4期生"
+    },
+    "location": 10006,
+    "branch": "myw3th"
+  },
+  {
+    "id": "a9r94f",
+    "name": {
+      "en": "5th",
+      "jp": "5期生"
+    },
+    "location": 10007,
+    "branch": "myw3th"
+  },
+  {
+    "id": "v78hmz",
+    "name": {
+      "en": "Secret Society holoX",
+      "jp": "秘密結社holoX"
+    },
+    "location": 10008,
+    "branch": "myw3th"
+  },
+  {
+    "id": "bgq2et",
+    "name": {
+      "en": "1st",
+      "jp": "1期生"
+    },
+    "location": 20001,
+    "branch": "rusyjy"
+  },
+  {
+    "id": "8amcg0",
+    "name": {
+      "en": "2nd",
+      "jp": "2期生"
+    },
+    "location": 20002,
+    "branch": "rusyjy"
+  },
+  {
+    "id": "lth8bv",
+    "name": {
+      "en": "3rd",
+      "jp": "3期生"
+    },
+    "location": 20003,
+    "branch": "rusyjy"
+  },
+  {
+    "id": "x52awb",
+    "name": {
+      "en": "Myth"
+    },
+    "location": 30001,
+    "branch": "cyyebd"
+  },
+  {
+    "id": "ilqb0t",
+    "name": {
+      "en": "Project: HOPE"
+    },
+    "location": 30002,
+    "branch": "cyyebd"
+  },
+  {
+    "id": "krpii8",
+    "name": {
+      "en": "Council"
+    },
+    "location": 30002,
+    "branch": "cyyebd"
+  },
+  {
+    "id": "pxz7xa",
+    "name": {
+      "en": "Promise"
+    },
+    "location": 30002,
+    "branch": "cyyebd"
+  },
+  {
+    "id": "iswu8d",
+    "name": {
+      "en": "Advent"
+    },
+    "location": 30003,
+    "branch": "cyyebd"
+  },
+  {
+    "id": "ma7nl7",
+    "name": {
+      "en": "Justice"
+    },
+    "location": 30004,
+    "branch": "cyyebd"
+  },
+  {
+    "id": "405c0p",
+    "name": {
+      "en": "ReGLOSS"
+    },
+    "location": 40001,
+    "branch": "7j96cm"
+  }
+]

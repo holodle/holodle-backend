@@ -1,0 +1,29 @@
+[
+  {
+    "id": "myw3th",
+    "name": {
+      "en": "hololive Japan",
+      "jp": "ホロライブ"
+    }
+  },
+  {
+    "id": "cyyebd",
+    "name": {
+      "en": "hololive English",
+      "jp": "ホロライブEnglish"
+    }
+  },
+  {
+    "id": "rusyjy",
+    "name": {
+      "en": "hololive Indonesia",
+      "jp": "ホロライブインドネシア"
+    }
+  },
+  {
+    "id": "7j96cm",
+    "name": {
+      "en": "hololive DEV_IS"
+    }
+  }
+]
